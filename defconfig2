@@ -49,10 +49,10 @@ URLs for the latest Teams (R1) build of Microsoft Teams:
   Teams 1.0:
   1.7.00.1274 (win-x64) - published on Sunday, January 14, 2024 at 8:56 PM with 137 MB: https://staticsint.teams.cdn.office.net/production-windows-x64/1.7.00.1274/Teams_windows_x64.exe
   1.7.00.1274 (win-x64) - published on Sunday, January 14, 2024 at 8:56 PM with 139 MB: https://staticsint.teams.cdn.office.net/production-windows-x64/1.7.00.1274/Teams_windows_x64.msi
-  1.7.00.564 (win-x86) - published on Friday, January 5, 2024 at 3:13 PM with 129 MB: https://staticsint.teams.cdn.office.net/production-windows/1.7.00.564/Teams_windows.exe
-  1.7.00.564 (win-x86) - published on Friday, January 5, 2024 at 3:13 PM with 131 MB: https://staticsint.teams.cdn.office.net/production-windows/1.7.00.564/Teams_windows.msi
-  1.7.00.564 (win-arm64) - published on Friday, January 5, 2024 at 3:19 PM with 130 MB: https://staticsint.teams.cdn.office.net/production-windows-arm64/1.7.00.564/Teams_windows_arm64.exe
-  1.7.00.564 (win-arm64) - published on Friday, January 5, 2024 at 3:19 PM with 132 MB: https://staticsint.teams.cdn.office.net/production-windows-arm64/1.7.00.564/Teams_windows_arm64.msi
+  1.7.00.1274 (win-x86) - published on Sunday, January 14, 2024 at 8:53 PM with 129 MB: https://staticsint.teams.cdn.office.net/production-windows/1.7.00.1274/Teams_windows.exe
+  1.7.00.1274 (win-x86) - published on Sunday, January 14, 2024 at 8:53 PM with 131 MB: https://staticsint.teams.cdn.office.net/production-windows/1.7.00.1274/Teams_windows.msi
+  1.7.00.1274 (win-arm64) - published on Sunday, January 14, 2024 at 9:00 PM with 130 MB: https://staticsint.teams.cdn.office.net/production-windows-arm64/1.7.00.1274/Teams_windows_arm64.exe
+  1.7.00.1274 (win-arm64) - published on Sunday, January 14, 2024 at 9:00 PM with 132 MB: https://staticsint.teams.cdn.office.net/production-windows-arm64/1.7.00.1274/Teams_windows_arm64.msi
   1.7.00.1262 (osx-x64 + osx-arm64) - published on Sunday, January 14, 2024 at 8:50 PM with 198 MB: https://staticsint.teams.cdn.office.net/production-osx/1.7.00.1262/Teams_osx.pkg
 
   Teams 2.0:
